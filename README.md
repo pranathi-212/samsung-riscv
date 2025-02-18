@@ -1,5 +1,5 @@
 <heading1> Samsung-Riscv </heading1>
-<details>
+
 Samsung Semiconductor India Research, in collaboration with VLSI System Design (VSD), has launched the SAMSUNG-RISCV program. This intensive six-week training program focuses on semiconductor technologies and the RISC-V architecture. Designed to equip participants with advanced knowledge and skills, it aims to meet the demands of the fast-growing semiconductor industry. With a strong emphasis on RISC-V design and its open-source nature, the program provides an excellent opportunity to explore VLSI chip design and innovation in RISC-V technology.
 
 Basic Details
@@ -8,7 +8,7 @@ College : Dayananda Sagar College of Engineering
 Email : saipranathirdsce@gmail.com
 github : pranathi-212
 linkedn : Sai Pranathi R
-</details>
+
 <details>
   <summary>Task 1 : The given task is to install RISC V toolchain using VDI link by following the steps mentioned in the shared pdf and compile a simple C program referring the lab video</summary>
 This task focuses on setting up a GitHub repository named *samsung-riscv*, installing the RISC-V toolchain, and completing hands-on exercises based on the provided lab videos. The objective is to help participants gain familiarity with the RISC-V architecture, its toolchain, and the process of executing programs written in C and RISC-V.  
